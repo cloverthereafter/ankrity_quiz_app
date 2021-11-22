@@ -1,0 +1,131 @@
+#main-window
+{
+    background-image: url(bg.jpg);
+    background-color: black;
+}
+
+#quiz-label
+{
+    color: rgb(193, 191, 191);
+    font-size: 70px;
+    font-weight: bold;
+    min-height: 100px;
+    min-width: 300px;
+    max-height: 110px;
+    max-width: 130px;
+}
+
+#buttons
+{
+    background-color:#202020;
+    min-width: 360px;
+    max-width: 360px;
+    min-height: 100px;
+    max-height: 100px;
+}
+
+#frame-heading
+{
+    color: rgb(193, 191, 191);
+    font-size: 30px;
+}
+
+#frame-heading:hover
+{
+    color: rgb(73, 69, 29);
+}
+
+#frame-exp
+{
+    background-color:#202020;
+    min-width: 360px;
+    max-width: 360px;
+    min-height: 500px;
+    max-height: 500px;
+}
+
+#back_button
+{
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    border-radius: 20px;
+}
+
+#back_button:hover
+{
+    color: #202020;
+    background-color: rgb(193, 191, 191);
+    border-radius: 20px;
+}
+
+#deco
+{
+    color: rgb(193, 191, 191);
+    font-family: fantasy;
+    font-size: 15px;
+}
+
+#welcome
+{
+    color: rgb(193, 191, 191);
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#input_prompts
+{
+    color: rgb(193, 191, 191);
+    font-size: 17px;
+}
+
+#input
+{
+    background-color: rgb(193, 191, 191);
+    min-width: 150px;
+    max-width: 150px;
+    min-height: 20px;
+    max-height: 20px;
+}
+
+#time_input
+{
+    background-color: rgb(193, 191, 191);
+    min-width: 30px;
+    max-width: 30px;
+    min-height: 20px;
+    max-height: 20px;
+}
+
+#push-buttons
+{
+    background-color: rgb(193, 191, 191);
+    color: #202020;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#ps
+{
+    color: rgb(193, 191, 191);
+}
+
+#q-frame
+{
+    background-color: rgb(73, 69, 29);
+    color: rgb(193, 191, 191);
+    min-width: 350px;
+    max-width: 350px;
+    min-height: 400px;
+    max-height: 400px;
+}
+
+#question
+{
+    background-color: rgb(193, 191, 191);
+    font-size: 15px;
+    min-width: 330px;
+    max-width: 330px;
+    min-height: 40px;
+    max-height: 40px;
+}
